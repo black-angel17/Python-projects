@@ -1,0 +1,50 @@
+Date: 2/9/2023
+Time: 14:48
+Phone Number: +919629021091
+Message: Hello from Python!
+--------------------
+Date: 2/9/2023
+Time: 15:8
+Phone Number: +919629021091
+Message: Hello from Python!
+--------------------
+Date: 2/9/2023
+Time: 15:10
+Phone Number: +919629021091
+Message: Internet connection is available.
+--------------------
+Date: 2/9/2023
+Time: 15:13
+Phone Number: +919629021091
+Message: Internet connection is available.
+--------------------
+Date: 2/9/2023
+Time: 15:18
+Phone Number: +919629021091
+Message: Internet connection is available.
+--------------------
+Date: 2/9/2023
+Time: 15:20
+Phone Number: +919629021091
+Message: Internet connection is available.
+--------------------
+Date: 2/9/2023
+Time: 15:26
+Phone Number: +919629021091
+Message: Internet connection is available.
+--------------------
+Date: 2/9/2023
+Time: 15:30
+Phone Number: +919629021091
+Message: Internet connection is available.
+--------------------
+Date: 2/9/2023
+Time: 15:37
+Phone Number: +919629021091
+Message: Internet connection is available.
+--------------------
+Date: 2/9/2023
+Time: 15:54
+Phone Number: +919629021091
+Message: Internet connection is available
+--------------------

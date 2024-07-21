@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7499fb1f-76b3-45a2-a4f2-767e0cbd6b6f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/pythonProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Competetive_programming/LOGS.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Competetive_programming/byte.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Competetive_programming/datastruct.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Competetive_programming/output.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Competetive_programming/test.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Competetive_programming/tester1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Competetive_programming/tester2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Competetive_programming/tester4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Competetive_programming/tester5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MINI_PROJECTS/All_in_one_downloader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MINI_PROJECTS/Filedetectormoving.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MINI_PROJECTS/MAL.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MINI_PROJECTS/PyWhatKit_DB.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MINI_PROJECTS/automsg_sender.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MINI_PROJECTS/net_msgsender.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MINI_PROJECTS/ocr.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MINI_PROJECTS/output.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MINI_PROJECTS/pinggame.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MINI_PROJECTS/screenshot_mover.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MINI_PROJECTS/tamil_tranlslate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MINI_PROJECTS/tele_bot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MINI_PROJECTS/test.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MINI_PROJECTS/tester5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MINI_PROJECTS/usb_detector.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WALKIE_TALKIE/alarmbot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WALKIE_TALKIE/competitive_programs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WALKIE_TALKIE/new_python.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WALKIE_TALKIE/patchme.flag.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WALKIE_TALKIE/python.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WALKIE_TALKIE/tester2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WALKIE_TALKIE/tester3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WALKIE_TALKIE/tester4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WALKIE_TALKIE/testins.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WALKIE_TALKIE/text.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WALKIE_TALKIE/walkie talie cliend.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/malwares/enumerator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/malwares/python101.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/malwares/sites.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/Data structures.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/oops_concept.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/regular expressions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/request.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/subproces.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/sysmodule.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/ter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/tes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/webrequests_learn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/backup/attackfinal.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/backup/new.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/backup/new1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/backup/normal_details.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/backup/normalfinal.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/backup/packet_details2.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/backup/t/new.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/backup/time_details.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/backup/time_details_normal.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/dataprocess/Nomral.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/dataprocess/addudppck.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/dataprocess/attack_pac.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/dataprocess/attackfinal.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/dataprocess/attakbeta.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/dataprocess/connect_time.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/dataprocess/countsocket.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/dataprocess/new.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/dataprocess/new1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/dataprocess/normal_details.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/dataprocess/normalbeta.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/dataprocess/normalfinal.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/dataprocess/test2.pcap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/dataprocess/test3.pcap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/dataprocess/test_data.pcap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/dataprocess/tester2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/dataprocess/testing.pcap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/dataprocess/training.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/final/Test_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/final/attack_training.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/final/normal_training_dta.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/slowloris" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/trash/attakbeta.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/trash/normal_details.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/trash/normalbeta.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/trash/packet_details2.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/trash/test.pcapng" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/trash/test1.pcap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/trash/test2.pcap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/trash/test3.pcap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/trash/time_details.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/trash/time_details_normal.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pwn-exploits/crypto_pwn_college.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pwn-exploits/play.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pwn-exploits/play2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pwn-exploits/rsa_solution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pwn-exploits/server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pwn-exploits/tester1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pwn-exploits/tester2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pwn-exploits/tester5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pwn-exploits/yukthipayload.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pwn-exploits/yukthui.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/a.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/b.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/c.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/d.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/e.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/f.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/file.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/g.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/h.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/i.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/j.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/k.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/l.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/m.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/n.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/o.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/p.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/q.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/r.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/s.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/t.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/u.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/v.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/w.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/x.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/y.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/z.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/cookie_brute.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/debug-console.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/dump.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/exploits.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/file.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/Automatic-Indian-Sign-Language-Translator-master/ISL_Gifs/A.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/Automatic-Indian-Sign-Language-Translator-master/ISL_Gifs/B.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/Automatic-Indian-Sign-Language-Translator-master/ISL_Gifs/C.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/Automatic-Indian-Sign-Language-Translator-master/ISL_Gifs/D.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/Automatic-Indian-Sign-Language-Translator-master/ISL_Gifs/E.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/Automatic-Indian-Sign-Language-Translator-master/ISL_Gifs/F.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/Automatic-Indian-Sign-Language-Translator-master/ISL_Gifs/G.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/Automatic-Indian-Sign-Language-Translator-master/ISL_Gifs/H.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/Automatic-Indian-Sign-Language-Translator-master/ISL_Gifs/L.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/Automatic-Indian-Sign-Language-Translator-master/ISL_Gifs/M.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/Automatic-Indian-Sign-Language-Translator-master/ISL_Gifs/P.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/Automatic-Indian-Sign-Language-Translator-master/ISL_Gifs/T.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/Automatic-Indian-Sign-Language-Translator-master/ISL_Gifs/Y.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/Automatic-Indian-Sign-Language-Translator-master/ISL_Gifs/Z.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/Automatic-Indian-Sign-Language-Translator-master/ISL_Gifs/address.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/Automatic-Indian-Sign-Language-Translator-master/ISL_Gifs/ahemdabad.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/Automatic-Indian-Sign-Language-Translator-master/ISL_Gifs/all.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/Automatic-Indian-Sign-Language-Translator-master/ISL_Gifs/any questions.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/Automatic-Indian-Sign-Language-Translator-master/ISL_Gifs/are you angry.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/Automatic-Indian-Sign-Language-Translator-master/ISL_Gifs/are you hungry.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/Automatic-Indian-Sign-Language-Translator-master/ISL_Gifs/assam.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/Automatic-Indian-Sign-Language-Translator-master/ISL_Gifs/august.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/Automatic-Indian-Sign-Language-Translator-master/ISL_Gifs/banana.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/Automatic-Indian-Sign-Language-Translator-master/ISL_Gifs/banaras.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/Automatic-Indian-Sign-Language-Translator-master/ISL_Gifs/banglore.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/Automatic-Indian-Sign-Language-Translator-master/ISL_Gifs/be careful.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/Automatic-Indian-Sign-Language-Translator-master/ISL_Gifs/bridge.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/Automatic-Indian-Sign-Language-Translator-master/ISL_Gifs/cat.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/Automatic-Indian-Sign-Language-Translator-master/ISL_Gifs/christmas.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/Automatic-Indian-Sign-Language-Translator-master/ISL_Gifs/church.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/Automatic-Indian-Sign-Language-Translator-master/ISL_Gifs/cilinic.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/Automatic-Indian-Sign-Language-Translator-master/ISL_Gifs/dasara.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/Automatic-Indian-Sign-Language-Translator-master/ISL_Gifs/december.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/Automatic-Indian-Sign-Language-Translator-master/ISL_Gifs/did you finish homework.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/Automatic-Indian-Sign-Language-Translator-master/ISL_Gifs/do you have money.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/Automatic-Indian-Sign-Language-Translator-master/ISL_Gifs/do you want something to drink.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/Automatic-Indian-Sign-Language-Translator-master/ISL_Gifs/do you watch TV.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/Automatic-Indian-Sign-Language-Translator-master/ISL_Gifs/dont worry.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/Automatic-Indian-Sign-Language-Translator-master/ISL_Gifs/flower is beautiful.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/Automatic-Indian-Sign-Language-Translator-master/ISL_Gifs/good afternoon.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/Automatic-Indian-Sign-Language-Translator-master/ISL_Gifs/good morning.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/Automatic-Indian-Sign-Language-Translator-master/ISL_Gifs/good question.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/Automatic-Indian-Sign-Language-Translator-master/ISL_Gifs/grapes.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/Automatic-Indian-Sign-Language-Translator-master/ISL_Gifs/hello.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/Automatic-Indian-Sign-Language-Translator-master/ISL_Gifs/hindu.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/Automatic-Indian-Sign-Language-Translator-master/ISL_Gifs/hyderabad.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/Automatic-Indian-Sign-Language-Translator-master/ISL_Gifs/i am a clerk.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/Automatic-Indian-Sign-Language-Translator-master/ISL_Gifs/i am fine.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/Automatic-Indian-Sign-Language-Translator-master/ISL_Gifs/i am sorry.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/Automatic-Indian-Sign-Language-Translator-master/ISL_Gifs/i am thinking.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/Automatic-Indian-Sign-Language-Translator-master/ISL_Gifs/i am tired.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/Automatic-Indian-Sign-Language-Translator-master/ISL_Gifs/i go to a theatre.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/Automatic-Indian-Sign-Language-Translator-master/ISL_Gifs/i had to say something but I forgot.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/Automatic-Indian-Sign-Language-Translator-master/ISL_Gifs/i like pink colour.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/Automatic-Indian-Sign-Language-Translator-master/ISL_Gifs/i love to shop.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/Automatic-Indian-Sign-Language-Translator-master/ISL_Gifs/job.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/Automatic-Indian-Sign-Language-Translator-master/ISL_Gifs/july.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/Automatic-Indian-Sign-Language-Translator-master/ISL_Gifs/june.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/Automatic-Indian-Sign-Language-Translator-master/ISL_Gifs/karnataka.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/Automatic-Indian-Sign-Language-Translator-master/ISL_Gifs/kerala.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/Automatic-Indian-Sign-Language-Translator-master/ISL_Gifs/krishna.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/Automatic-Indian-Sign-Language-Translator-master/ISL_Gifs/lets go for lunch.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/Automatic-Indian-Sign-Language-Translator-master/ISL_Gifs/mango.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/Automatic-Indian-Sign-Language-Translator-master/ISL_Gifs/may.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/Automatic-Indian-Sign-Language-Translator-master/ISL_Gifs/mile.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/Automatic-Indian-Sign-Language-Translator-master/ISL_Gifs/mumbai.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/Automatic-Indian-Sign-Language-Translator-master/ISL_Gifs/nagpur.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/Automatic-Indian-Sign-Language-Translator-master/ISL_Gifs/nice to meet you.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/Automatic-Indian-Sign-Language-Translator-master/ISL_Gifs/open the door.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/Automatic-Indian-Sign-Language-Translator-master/ISL_Gifs/pakistan.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/Automatic-Indian-Sign-Language-Translator-master/ISL_Gifs/please call me later.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/Automatic-Indian-Sign-Language-Translator-master/ISL_Gifs/police station.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/Automatic-Indian-Sign-Language-Translator-master/ISL_Gifs/post office.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/Automatic-Indian-Sign-Language-Translator-master/ISL_Gifs/pune.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/Automatic-Indian-Sign-Language-Translator-master/ISL_Gifs/punjab.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/Automatic-Indian-Sign-Language-Translator-master/ISL_Gifs/saturday.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/Automatic-Indian-Sign-Language-Translator-master/ISL_Gifs/shall I help you.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/Automatic-Indian-Sign-Language-Translator-master/ISL_Gifs/shall we go together tommorow.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/Automatic-Indian-Sign-Language-Translator-master/ISL_Gifs/shop.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/Automatic-Indian-Sign-Language-Translator-master/ISL_Gifs/sign language interpreter.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/Automatic-Indian-Sign-Language-Translator-master/ISL_Gifs/sit down.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/Automatic-Indian-Sign-Language-Translator-master/ISL_Gifs/stand up.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/Automatic-Indian-Sign-Language-Translator-master/ISL_Gifs/take care.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/Automatic-Indian-Sign-Language-Translator-master/ISL_Gifs/temple.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/Automatic-Indian-Sign-Language-Translator-master/ISL_Gifs/there was traffic jam.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/Automatic-Indian-Sign-Language-Translator-master/ISL_Gifs/thursday.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/Automatic-Indian-Sign-Language-Translator-master/ISL_Gifs/toilet.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/Automatic-Indian-Sign-Language-Translator-master/ISL_Gifs/tomato.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/Automatic-Indian-Sign-Language-Translator-master/ISL_Gifs/tuesday.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/Automatic-Indian-Sign-Language-Translator-master/ISL_Gifs/usa.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/Automatic-Indian-Sign-Language-Translator-master/ISL_Gifs/village.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/Automatic-Indian-Sign-Language-Translator-master/ISL_Gifs/wednesday.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/Automatic-Indian-Sign-Language-Translator-master/ISL_Gifs/what is the problem.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/Automatic-Indian-Sign-Language-Translator-master/ISL_Gifs/what is today's date.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/Automatic-Indian-Sign-Language-Translator-master/ISL_Gifs/what is your father do.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/Automatic-Indian-Sign-Language-Translator-master/ISL_Gifs/what is your name.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/Automatic-Indian-Sign-Language-Translator-master/ISL_Gifs/whats up.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/Automatic-Indian-Sign-Language-Translator-master/ISL_Gifs/where is the bathroom.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/Automatic-Indian-Sign-Language-Translator-master/ISL_Gifs/where is the police station.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/Automatic-Indian-Sign-Language-Translator-master/ISL_Gifs/you are wrong.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/Automatic-Indian-Sign-Language-Translator-master/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/Automatic-Indian-Sign-Language-Translator-master/letters/a.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/Automatic-Indian-Sign-Language-Translator-master/letters/b.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/Automatic-Indian-Sign-Language-Translator-master/letters/c.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/Automatic-Indian-Sign-Language-Translator-master/letters/d.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/Automatic-Indian-Sign-Language-Translator-master/letters/e.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/Automatic-Indian-Sign-Language-Translator-master/letters/f.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/Automatic-Indian-Sign-Language-Translator-master/letters/g.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/Automatic-Indian-Sign-Language-Translator-master/letters/h.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/Automatic-Indian-Sign-Language-Translator-master/letters/i.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/Automatic-Indian-Sign-Language-Translator-master/letters/j.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/Automatic-Indian-Sign-Language-Translator-master/letters/k.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/Automatic-Indian-Sign-Language-Translator-master/letters/l.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/Automatic-Indian-Sign-Language-Translator-master/letters/m.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/Automatic-Indian-Sign-Language-Translator-master/letters/n.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/Automatic-Indian-Sign-Language-Translator-master/letters/o.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/Automatic-Indian-Sign-Language-Translator-master/letters/p.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/Automatic-Indian-Sign-Language-Translator-master/letters/q.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/Automatic-Indian-Sign-Language-Translator-master/letters/r.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/Automatic-Indian-Sign-Language-Translator-master/letters/s.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/Automatic-Indian-Sign-Language-Translator-master/letters/t.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/Automatic-Indian-Sign-Language-Translator-master/letters/u.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/Automatic-Indian-Sign-Language-Translator-master/letters/v.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/Automatic-Indian-Sign-Language-Translator-master/letters/w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/Automatic-Indian-Sign-Language-Translator-master/letters/x.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/Automatic-Indian-Sign-Language-Translator-master/letters/y.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/Automatic-Indian-Sign-Language-Translator-master/letters/z.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/Automatic-Indian-Sign-Language-Translator-master/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/Automatic-Indian-Sign-Language-Translator-master/main2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/Automatic-Indian-Sign-Language-Translator-master/signlang.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/LRDDOS/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/LRDDOS/.idea/LRDDOS.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/LRDDOS/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/LRDDOS/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/LRDDOS/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/LRDDOS/Figure_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/LRDDOS/Knn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/LRDDOS/Logistic regression.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/LRDDOS/Na.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/LRDDOS/Random forest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/LRDDOS/a.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/LRDDOS/ex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/LRDDOS/excel/accuracy.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/LRDDOS/excel/f1_score.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/LRDDOS/excel/fpr.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/LRDDOS/excel/precision.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/LRDDOS/excel/prediction_time.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/LRDDOS/excel/recall.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/LRDDOS/excel/tpr.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/LRDDOS/excel/training_time.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/LRDDOS/graph.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/LRDDOS/graph/Accuracy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/LRDDOS/graph/F1 Score.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/LRDDOS/graph/FPR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/LRDDOS/graph/Precision.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/LRDDOS/graph/Prediction Time.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/LRDDOS/graph/Recall.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/LRDDOS/graph/TPR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/LRDDOS/graph/Training Time.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/LRDDOS/knn.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/LRDDOS/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/LRDDOS/metrics.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/LRDDOS/n.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/LRDDOS/nn.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/LRDDOS/report.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/LRDDOS/svm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/LRDDOS/svm2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/LRDDOS/t.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/LRDDOS/test2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/LRDDOS/test3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/git/LRDDOS/test4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/sql_pwn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/user.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-http/wifipassdump.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/slowloris/slowloris.py" beforeDir="false" afterPath="$PROJECT_DIR$/project/slowloris/slowloris.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2jXFnP3iR8Rc9Tu9dMWbQMeIcs4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-975db3bf15a3-31b6be0877a2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.18034.82" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7499fb1f-76b3-45a2-a4f2-767e0cbd6b6f" name="Changes" comment="" />
+      <created>1721525680600</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1721525680600</updated>
+    </task>
+    <servers />
+  </component>
+</project>

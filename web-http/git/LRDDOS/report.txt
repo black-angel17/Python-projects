@@ -1,0 +1,37 @@
+KNN Output:
+k = 1: Accuracy = 0.9986, Training Time = 0.0792 seconds
+Evaluation for 1:
+TPR = 0.9990
+FPR = 0.0030
+Precision = 0.9993
+Recall = 0.9990
+F1 Score = 0.9991
+Prediction Time: 5.5632 seconds
+
+
+Random Forest Output:
+Confusion Matrix:
+[[2010    2]
+ [   6 8046]]
+Accuracy: 0.9992
+Recall: 0.9993
+Precision: 0.9998
+F1 Score: 0.9995
+TPR: 0.9993
+FPR: 0.0010
+Training Time: 62.1908 seconds
+Prediction Time: 0.4886 seconds
+
+
+Logistic Regression Output:
+Confusion Matrix:
+[[1858  154]
+ [ 152 7900]]
+Accuracy: 0.9696
+Recall: 0.9811
+Precision: 0.9809
+F1 Score: 0.9810
+TPR: 0.9811
+FPR: 0.0765
+Training Time: 4.5180 seconds
+Prediction Time: 0.0239 seconds
