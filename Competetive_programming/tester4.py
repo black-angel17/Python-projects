@@ -32,7 +32,7 @@ def ping():
 
             else:
                 print("The internet is not available.")
-
+                print('master')
         except Exception as e:
             print(f"An error occurred: {e}")
 
